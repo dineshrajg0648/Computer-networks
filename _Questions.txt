@@ -1,0 +1,35 @@
+1.	Configuration of Network Devices using Packet Tracer tools (Hub, Switch, Ethernet, Broadcast).
+2.	Design and Configuration of Star Topologies using Packet Tracer.	
+3.	Design and Configuration of BUS Topologies using Packet Tracer.	
+4.	Design and Configuration of RING Topologies using Packet Tracer.	
+5.	Design and Configuration of Mesh Topologies using Packet Tracer.	
+6.	Design and Configuration of Tree Topologies using Packet Tracer.	
+7.	Design and Configuration of Hybrid Topologies using Packet Tracer.	
+8.	Data Link Layer Traffic Simulation using Packet Tracer Analysis of ARP.	
+9.	Data Link Layer Traffic Simulation using Packet Tracer Analysis of CSMA/CD & CSMA/CA.	
+10.	Making Computer Lab in Cisco Packet Tracer.	
+11.	Designing two different network with Static Routing techniques using Packet Tracer.	
+12.	Design the Functionalities and Exploration of TCP using Packet Tracer.	
+13.	Design the network model for Subnetting – Class C Addressing using Packet Tracer.	
+14.	Simulating X, Y, Z Company Network Design and simulate using Packet Tracer.	
+15.	Configuration of DHCP (dynamic host configuration protocol) in packet Tracer.	
+16.	Configuration of firewall in packet tracer.	
+17.	Make a Computer Lab to transfer a message from one node to another to design and simulate using Cisco Packet Tracer.	
+18.	Simulate a Multimedia Network in Cisco Packet Tracer.	
+19.	IoT based smart home applications.	
+20.	Implementation of IoT based smart gardening.	
+21.	Implementation of IoT devices in networking.	
+22.	IoT based AAA Local and Server based authentication configuration.	
+23.	Transport layer protocol header analysis using Wire shark- TCP and UDP.	
+24.	Network layer protocol header analysis using Wire shark – SMTP and ICMP.	
+25.	Network layer protocol header analysis using Wire shark – ARP and HTTP.	
+26.	Implementation of date and time display from client to server using TCP sockets in java/C.	
+27.	Implementation of a DNS server and client in java/C using UDP sockets.	
+28.	Developing a client that contacts a given DNS server to resolve a given hostname in java/C.	
+29.	Creating the applications using TCP echo server and client in java/C. 	
+30.	Creating the applications using TCP chat client and chat server in java/C.	
+31.	Implementing ARP protocols in java/C.	  
+32.	Implementation of Bit stuffing mechanism using C.	  
+33.	Implementing the applications using TCP file transfer in java/C.	  
+34.	Implementing the simulation of error correction code - CRC in java/C.	  
+35.	Implementing the sliding window protocol in java/C.	
